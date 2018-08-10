@@ -1,0 +1,7 @@
+[package]
+name = "maexchen-bot"
+version = "0.1.0"
+authors = ["David Badura <david.badura@sensiolabs.de>"]
+
+[dependencies]
+rand="0.4"
